@@ -1,6 +1,6 @@
 👋 Hi, I'm Gaurav Adarkar
 
-☁️ DevOps Engineer | AWS | Kubernetes | Docker | Terraform
+☁️ DevOps Engineer | AWS | Docker | Terraform | Git | Harness | Jenkins | PowerShell | Shell | Python
 
 🤖 Exploring AI, Machine Learning & MLOps
 
