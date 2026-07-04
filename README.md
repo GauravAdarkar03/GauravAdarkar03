@@ -8,4 +8,4 @@
 
 - Currently learning Generative AI, LLMs, and production-grade MLOps.
 
-⚡ Always excited to learn, build, and solve real-world problems.
+- Always excited to learn, build, and solve real-world problems.
